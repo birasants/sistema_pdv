@@ -3,7 +3,7 @@
 
 Este sistema de Ponto de Venda (PDV) é uma solução desenvolvida para gerenciar transações em um ambiente de varejo. O sistema permite a gestão de categorias, produtos, clientes e pedidos, oferecendo uma interface clara e funcionalidades robustas para facilitar as operações diárias de um estabelecimento comercial.
 
-## Funcionalidades
+## :ladder: Funcionalidades
 
 - **Gerenciamento de Usuários**: Cadastro, autenticação e atualização de usuários.
 - **Gerenciamento de Categorias**: Listagem de categorias pré-definidas como Informática, Celulares, entre outras.
@@ -11,16 +11,10 @@ Este sistema de Ponto de Venda (PDV) é uma solução desenvolvida para gerencia
 - **Gerenciamento de Clientes**: Cadastro, atualização e listagem de clientes, com validação de campos únicos como e-mail e CPF.
 - **Gerenciamento de Pedidos**: Registro de novos pedidos, listagem e regras de negócio específicas para gestão de estoque e integridade de dados.
 
-## Tecnologias Utilizadas
+## :man_mechanic: Linguagens e Ferramentas
 
-- **Node.js**: Plataforma de desenvolvimento do lado do servidor.
-- **PostgreSQL**: Sistema gerenciador de banco de dados relacional.
-- **Express**: Framework para aplicativo da web para Node.js.
-- **JWT (JSON Web Tokens)**: Utilizado para a autenticação de usuários.
-- **Bcrypt**: Biblioteca utilizada para criptografar senhas.
-- **Supabase/Blackblaze**: Serviços de armazenamento em nuvem para gerenciamento de imagens de produtos.
-
-## Como Executar
+![Skills](https://skillicons.dev/icons?i=nodejs,js,express,postgres,git,github,npm)
+## :computer: Como Executar
 
 Para executar este sistema, siga os passos abaixo:
 
